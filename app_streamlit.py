@@ -69,7 +69,7 @@ st.caption("Gráficos interactivos y análisis de sensibilidad.")
 st.sidebar.header("⚙️ Ajuste de Sensibilidad")
 
 # Asumimos valores por defecto
-default_wacc = 10.0
+default_wacc = 20.0
 default_g = 3.0
 default_isr = 30.0
 
